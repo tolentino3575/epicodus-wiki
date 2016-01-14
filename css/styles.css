@@ -1,0 +1,37 @@
+.markdown-show {
+  display: none;
+}
+
+.elements-show {
+  display: none;
+}
+.htmlcss-show {
+  display: none;
+}
+
+.jsattributes-show {
+  display: none;
+}
+
+.dom-show {
+  display: none;
+}
+
+.forms-show {
+  display: none;
+}
+
+.panel-body {
+  height: 250px;
+}
+
+h1 {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+
+#spongebob {
+  text-align: center;
+}
