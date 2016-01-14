@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link src="css/wikiStyles.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <title></title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="jumbotron">
+        <h3><a href="index.html"><b>← Back to Wiki</a></h3>
+        <h1>Forms: examples, defination and usage </h1>
+        <p></p>
+          <img src="img/form.png" alt="An image of form using Javascript ">
+          <br>
+          <br>
+
+          <h3>Here is a form for entering your name!</h3>
+          <br>
+          <div id ="form">
+            <form id="nameForm">
+              <div>
+                <label for="firstName"> A first name</label>
+                <input id="firstName" class="form-control" type="text" placeholder="John">
+              </div>
+              <div>
+                <label for="lastName"> A last name</label>
+                <input id="lastName" class="form-control" type="text" placeholder="Smith">
+              </div>
+              <button type="submit" class="btn">Full Name</button>
+            </form>
+          </div>
+
+          <div id="fullname">
+          </div>
+
+<script src="js/jquery-1.12.0.js"></script>
+<script src="js/forms.js"></script>
+  </div>
+</div>
+  </body>
+</html>
