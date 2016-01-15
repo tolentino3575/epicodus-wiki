@@ -1,24 +1,5 @@
 
-.markdown-show {
-  display: none;
-}
-
-.elements-show {
-  display: none;
-}
-.htmlcss-show {
-  display: none;
-}
-
-.jsattributes-show {
-  display: none;
-}
-
-.dom-show {
-  display: none;
-}
-
-.forms-show {
+.definition {
   display: none;
 }
 
@@ -27,8 +8,8 @@
 }
 
 h1 {
-  text-align: center;
-}
+  text-align: center;*/
+/*}
 ul {
   list-style-type: none;
 }
