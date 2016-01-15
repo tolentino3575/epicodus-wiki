@@ -1,0 +1,18 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+//Good updates, could always have more updates. teacher said if //"and" is in updates, she would be mad.
+
+Is the code easy to read (good indentation, spacing, naming)?
+//Great Indentation!
+
+Were branching and looping used effectively?
+//N/A
+
+
+Is the web page(s) styled using Bootstrap and CSS?
+// Yes! Great Hover Effects!
+
+Is the site user-friendly?
+//Yes!
+
+Do you have any additional constructive criticism or positive feedback to share?
+//Great Job!  This project was huge and turned out really well. 
